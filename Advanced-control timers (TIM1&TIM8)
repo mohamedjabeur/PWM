@@ -2,4 +2,4 @@
 #1:Le But des Advanced-Control Timers (TIM1 & TIM8)
 Dans l'écosystème STM32, si les timers à usage général (General-Purpose) servent à mesurer le temps ou générer des signaux basiques, les Advanced-Control Timers sont de véritables monstres taillés pour le contrôle de puissance industriel.
 Leur but principal est le contrôle de moteurs électriques (Brushless DC, moteurs pas à pas, moteurs à induction) et la gestion d'alimentations à découpage (SMPS). Pour cela, ils intègrent des fonctionnalités matérielles critiques (sorties complémentaires, insertion de temps mort, coupure d'urgence) éliminant le besoin de logique externe et garantissant la sécurité des étages de puissance.
-....
+
